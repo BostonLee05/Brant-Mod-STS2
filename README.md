@@ -20,7 +20,7 @@ Brant introduces a high-tempo, calculation-driven playstyle built around **Energ
 
 ---
 
-### 🛠️ Technical Highlights & Architecture
+###  Technical Highlights & Architecture
 
 - **Language & Runtime**: C# 13, .NET 9.0
 - **Game Engine & Frameworks**: Godot Engine 4.5.x (.NET), Slay the Spire 2 Core API, BaseLib
@@ -31,9 +31,6 @@ Brant introduces a high-tempo, calculation-driven playstyle built around **Energ
 
 ---
 
-### 🚀 Getting Started / Installation
+###  Getting Started / Installation
 
 1. Ensure **Slay the Spire 2** and a compatible mod loader / BaseLib are installed.
-2. Build the project:
-   ```bash
-   dotnet build -c Release
