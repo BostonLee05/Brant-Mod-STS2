@@ -1,0 +1,10 @@
+﻿{
+  "BRANT-VOYAGERS_BLAZE.title": "Voyager's Blaze",
+  "BRANT-VOYAGERS_BLAZE.description": "Brant starts combat with 100 [gold]ER[/gold] (Max 250).",
+  "VOYAGERS_BLAZE.title": "Voyager's Blaze",
+  "VOYAGERS_BLAZE.description": "Brant starts combat with 100 [gold]ER[/gold] (Max 250).",
+  "BRANT-ER.title": "ER",
+  "BRANT-ER.description": "A special resource for Brant (Default: 100, Max: 250). Resets to 100 at the start of combat.",
+  "ER.title": "ER",
+  "ER.description": "A special resource for Brant (Default: 100, Max: 250). Resets to 100 at the start of combat."
+}

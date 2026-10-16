@@ -1,0 +1,14 @@
+﻿{
+  "BRANT-TO_THE_HORIZON_POWER.title": "To the Horizon",
+  "BRANT-TO_THE_HORIZON_POWER.description": "At the start of your turn, lose !Amount! [gold]Strength[/gold].",
+  "TO_THE_HORIZON_POWER.title": "To the Horizon",
+  "TO_THE_HORIZON_POWER.description": "At the start of your turn, lose !Amount! [gold]Strength[/gold].",
+  "BRANT-FLIGHT_POWER.title": "Flight",
+  "BRANT-FLIGHT_POWER.description": "Reduce attack damage received this turn by 50%.",
+  "FLIGHT_POWER.title": "Flight",
+  "FLIGHT_POWER.description": "Reduce attack damage received this turn by 50%.",
+  "BRANT-TROUPE_OF_FOOLS_POWER.title": "Troupe of Fools",
+  "BRANT-TROUPE_OF_FOOLS_POWER.description": "At the start of your turn, lose !Amount! [gold]ER[/gold].",
+  "TROUPE_OF_FOOLS_POWER.title": "Troupe of Fools",
+  "TROUPE_OF_FOOLS_POWER.description": "At the start of your turn, lose !Amount! [gold]ER[/gold]."
+}
